@@ -1,0 +1,1 @@
+In this project, I looked at pitching statistics from the 2025 MLB season in an effort to determine how a pitcher's usage of different pitches affected different success metrics. I compared use of fastballs, breaking pitches, and offspeed pitches to stats like ERA, Exit Velocity allowed, strikeouts, and walks in order to conduct my analysis.
